@@ -6,7 +6,7 @@ A full-stack **MERN (MongoDB, Express, React, Node.js)** application with the fo
 - **Agent Management** (Add, View agents)
 - **CSV Upload & Task Distribution** (distribute tasks equally among agents)
 
---Steps to execute--
+**Steps to execute--
 Backend
 Install dependencies
 npm install
